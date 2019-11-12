@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ejemplo de párrafos</title>
+</head>
+<body>
+  <p>Los <strong>limones</strong> son <strong>amarillos</strong>.</p>
+  <p>El <strong>cielo</strong> es <strong>azul</strong>.</p>
+  <p>Las <strong>castañas</strong> son <strong>marrones</strong>.</p>
+  <p>Las <strong>nubes</strong> son <strong>blancas</strong>.</p>
+  <p>Las <strong>mandarinas</strong> son <strong>naranjas</strong>.</p>
+</body>
+</html>
